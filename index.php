@@ -1,3 +1,3 @@
 <?php
-header('Location: https://seusiteprincipal.com.br');
+header('Location: https://www.visualnew.com/new-project/');
 exit();
